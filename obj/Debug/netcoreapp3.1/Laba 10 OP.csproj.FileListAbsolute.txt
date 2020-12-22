@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Laba 10 OP\bin\Debug\netcoreapp3.1\Laba 10 OP.exe
+C:\Users\User\source\repos\Laba 10 OP\bin\Debug\netcoreapp3.1\Laba 10 OP.deps.json
+C:\Users\User\source\repos\Laba 10 OP\bin\Debug\netcoreapp3.1\Laba 10 OP.runtimeconfig.json
+C:\Users\User\source\repos\Laba 10 OP\bin\Debug\netcoreapp3.1\Laba 10 OP.runtimeconfig.dev.json
+C:\Users\User\source\repos\Laba 10 OP\bin\Debug\netcoreapp3.1\Laba 10 OP.dll
+C:\Users\User\source\repos\Laba 10 OP\bin\Debug\netcoreapp3.1\Laba 10 OP.pdb
+C:\Users\User\source\repos\Laba 10 OP\obj\Debug\netcoreapp3.1\Laba 10 OP.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Laba 10 OP\obj\Debug\netcoreapp3.1\Laba 10 OP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Laba 10 OP\obj\Debug\netcoreapp3.1\Laba 10 OP.AssemblyInfo.cs
+C:\Users\User\source\repos\Laba 10 OP\obj\Debug\netcoreapp3.1\Laba 10 OP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Laba 10 OP\obj\Debug\netcoreapp3.1\Laba 10 OP.dll
+C:\Users\User\source\repos\Laba 10 OP\obj\Debug\netcoreapp3.1\Laba 10 OP.pdb
+C:\Users\User\source\repos\Laba 10 OP\obj\Debug\netcoreapp3.1\Laba 10 OP.genruntimeconfig.cache
